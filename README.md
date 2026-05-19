@@ -15,12 +15,12 @@ Un entorno personal de ciberseguridad defensiva construido para practicar detecc
 
 ![Lab Diagram](./architecture/lab-diagram.svg)
 
-| Componente | OS | Rol | IP |
-|---|---|---|---|
-| Wazuh Manager | Ubuntu Server 22.04 | SIEM / SOC Core | 192.168.1.100 |
-| Kali Linux | Kali Rolling | Attacker | 192.168.1.10 |
-| Windows Victim | Windows 10 Eval | Target + Wazuh Agent | 192.168.1.20 |
-| Linux Victim | Ubuntu Desktop | Target + Wazuh Agent | 192.168.1.30 |
+| Componente | OS | Rol |
+|---|---|---|
+| Wazuh Manager | Ubuntu Server 22.04 | SIEM / SOC Core | 
+| Kali Linux | Kali Rolling | Attacker |
+| Windows Victim | Windows 10 Eval | Target + Wazuh Agent |
+| Linux Victim | Ubuntu Desktop | Target + Wazuh Agent |
 
 ---
 
