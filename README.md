@@ -13,7 +13,7 @@ Un entorno personal de ciberseguridad defensiva construido para practicar detecc
 
 ## Arquitectura
 
-![Lab Diagram](./architecture/lab-diagram.svg)
+![Lab Diagram](./architecture/lab-diagram.svg) 
 
 | Componente | OS | Rol |
 |---|---|---|
